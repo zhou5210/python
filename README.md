@@ -1,6 +1,7 @@
 # python
-python 资源 
-   python_eamil
+### python 资源 
+  -  python_eamil
+   >
         host = 'smtp.163.com'      #邮件服务器
         username = '123@163.com'   #发送者邮箱
         passwd = '123'             #授权码非登录密码
