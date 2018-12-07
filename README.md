@@ -9,7 +9,7 @@
         subject = "邮件主题"        #主题
         content = '内容'            #内容
   -  python_MongoDB
-    > 
+    >
         settings = {
             "ip":'192.168.0.113',   #ip
             "port":27017,           #端口
